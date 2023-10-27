@@ -1,2 +1,2 @@
-5.0.0
-https://cdn.discordapp.com/attachments/1009569570782195732/1166923349612572753/GKHub_-_Deobfuscator.rar?ex=654c410e&is=6539cc0e&hm=4d98f4fc5bddd915a873473e145a821c12adb92ca24a54ac4a1097be9596fc8d&
+6.0.0
+https://cdn.discordapp.com/attachments/1009569570782195732/1167377838391971890/GKHub_-_Deobfuscator.rar?ex=654de855&is=653b7355&hm=2b7489e38303a0d450f2afb22bdb77e9d373f2cfbc3888a8c992a8d00039334a&
